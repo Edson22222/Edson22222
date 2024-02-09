@@ -6,6 +6,7 @@
 <div>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="ttps://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=wh">
 <div/>
 
 ## Ferramentas que eu uso nos meus projetos
